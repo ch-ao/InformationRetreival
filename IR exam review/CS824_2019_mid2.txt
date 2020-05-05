@@ -1,0 +1,30 @@
+Mid-term 2 Guidelines
+
+Time: April 2, 2019
+
+This will be a closed book examination.
+
+Please note that partial marks will be
+given for partial work.
+
+Topics to be covered in mid-term 2
+
+1. Vector space model of IR
+   * Document representation
+   * Query representation
+   * Retrieval (i.e., matching function), similarity measures
+
+   * Binary vector space models
+     - similarity measures
+     - precision-oriented measures
+     - recall-oriented measures
+
+2. Probability distribution models
+   * Expected utility
+   * Similarity based on entropy of distributions
+
+3. Basic ideas of relevance feedback
+   * Classical relevance feedback in VSM
+   * Relevance feedback under user preferences
+     (Lean a query by error correction)
+   * The connection between the above to approaches

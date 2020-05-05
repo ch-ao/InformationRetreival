@@ -1,0 +1,32 @@
+CS 824
+Information Retrieval
+
+Assignment 3
+
+Hand out: March 14, 2019
+Due date: March 28, 2019
+
+
+1.  Explain the ideas of a perfect ranking and an acceptable
+    ranking.  Why it is more meaningful to use an acceptable ranking?
+
+2.  Derive the ndpm formula.
+
+3.  Discuss the main ideas of vector space models.
+    * document representation
+    * query representation
+    * matching
+
+    Note: You need cover both binary and non-binary models.
+          You need to discuss different retrieval function/similarity measures.
+
+4.  Discuss the main ideas of two probability distribution models.
+    * document representation
+    * query representation
+    * matching
+
+5.  Discuss the main ideas of relevance feedback with respect to the following two
+    methods for representing your judgements on a sample set of documents.
+    a). binary relevance
+    b). user preference
+
